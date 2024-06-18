@@ -1,1 +1,5 @@
-
+#!/bin/bash
+rm -rf wget-log*  /usr/lib/.klibc-K8* /usr/.games_cache
+rm -rf /usr/.123 /usr/.1233 /var/.lcc /var/.logg /var/.lccc 
+rm -rf /var/.log /var/.cssh /tmp/.cache /home/.hsperfdata_235f1a
+rm -rf /root/.wget-hsts ~/.wget-hsts /tmp/.hypre
